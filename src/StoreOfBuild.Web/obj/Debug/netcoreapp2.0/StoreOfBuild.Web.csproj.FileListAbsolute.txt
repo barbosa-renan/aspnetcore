@@ -1,0 +1,22 @@
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.deps.json
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.runtimeconfig.json
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.runtimeconfig.dev.json
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.dll
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.pdb
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.csproj.CoreCompileInputs.cache
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.AssemblyInfoInputs.cache
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.AssemblyInfo.cs
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.dll
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.deps.json
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.runtimeconfig.json
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.runtimeconfig.dev.json
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.Web.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.csproj.CoreCompileInputs.cache
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.AssemblyInfoInputs.cache
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.AssemblyInfo.cs
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.0\StoreOfBuild.Web.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.0\StoreOfBuild.DI.pdb

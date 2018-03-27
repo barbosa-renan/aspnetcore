@@ -1,0 +1,16 @@
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.AssemblyInfoInputs.cache
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.AssemblyInfo.cs
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBUild.Domain.deps.json
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBUild.Domain.dll
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBUild.Domain.pdb
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.dll
+C:\Users\Renan Barbosa\labs\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBUild.Domain.deps.json
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBUild.Domain.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBUild.Domain.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.csproj.CoreCompileInputs.cache
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.AssemblyInfoInputs.cache
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.AssemblyInfo.cs
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBUild.Domain.pdb

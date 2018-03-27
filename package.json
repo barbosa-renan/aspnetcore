@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "npm": "^5.8.0",
+    "semver-regex": "^2.0.0"
+  }
+}

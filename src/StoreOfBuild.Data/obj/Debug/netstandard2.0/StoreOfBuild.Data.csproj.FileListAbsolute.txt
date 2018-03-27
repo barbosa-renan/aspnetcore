@@ -1,0 +1,10 @@
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBUild.Domain.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBUild.Domain.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CoreCompileInputs.cache
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfoInputs.cache
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfo.cs
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.deps.json
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
