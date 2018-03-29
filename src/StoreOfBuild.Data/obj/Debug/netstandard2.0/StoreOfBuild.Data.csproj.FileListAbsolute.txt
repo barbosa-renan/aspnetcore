@@ -8,3 +8,15 @@ C:\Udemy\Modulo7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Dat
 C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.deps.json
 C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
 C:\Udemy\Modulo7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.deps.json
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CoreCompileInputs.cache
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfoInputs.cache
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfo.cs
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.runtimeconfig.json
+C:\Udemy\StoreOfBuild\aspnetcore\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.runtimeconfig.dev.json
